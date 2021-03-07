@@ -157,7 +157,7 @@ have to press refresh in the browser to get the new data from spider.js.
 - dr-chuck.com
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./output/terminal.jpg"></a>
+ <img width=500px src="./output/terminal.png"></a>
 </p>
 
 ## Visualization
@@ -165,7 +165,7 @@ have to press refresh in the browser to get the new data from spider.js.
 - dr-chuck.com
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./output/dr-chuck.jpg"></a>
+ <img width=500px src="./output/dr-chuck.png"></a>
 </p>
 
 - Coursera
@@ -180,14 +180,8 @@ have to press refresh in the browser to get the new data from spider.js.
  <img width=500px src="./output/wiki.png"></a>
 </p>
 
-- Qualcomm
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px src="./output/qualcomm.jpg"></a>
-</p>
-
 - Intechnic
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./output/intechnic.jpg"></a>
+ <img width=500px src="./output/intechnic.png"></a>
 </p>
