@@ -177,7 +177,7 @@ have to press refresh in the browser to get the new data from spider.js.
 - Wikipedia
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px src="./output/wiki.png"></a>
+ <img width=500px src="./output/wikipedia.png"></a>
 </p>
 
 - Intechnic
