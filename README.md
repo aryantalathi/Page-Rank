@@ -151,3 +151,43 @@ http://mbostock.github.com/d3/
 
 If you rerun the other utilities and then re-run spjson.py - you merely
 have to press refresh in the browser to get the new data from spider.js.
+
+## Output
+
+- dr-chuck.com
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./output/terminal.jpg"></a>
+</p>
+
+## Visualization
+
+- dr-chuck.com
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./output/dr-chuck.jpg"></a>
+</p>
+
+- Coursera
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./output/coursera.png"></a>
+</p>
+
+- Wikipedia
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./output/wiki.png"></a>
+</p>
+
+- Qualcomm
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./output/qualcomm.jpg"></a>
+</p>
+
+- Intechnic
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px src="./output/intechnic.jpg"></a>
+</p>
